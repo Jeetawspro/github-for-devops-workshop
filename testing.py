@@ -1,0 +1,1 @@
+print("thoda thoda sikh rha hu")
