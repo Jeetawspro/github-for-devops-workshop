@@ -1,0 +1,19 @@
+2 git status
+   3 dir
+   4 del "er.name Jeet C"
+   5 git status
+   6 rm testing.py
+   7 git status
+   8 git restore testing.py
+   9 rm testing.py
+  10 git status
+  11 git restore testing.py
+  12 history
+  13 git status
+  14 git add commandfile.txt
+  15 git status
+  16 git commit -m "thoda sikha abhi"
+  17 git status
+  18 rm commandfile.txt
+  19 git restore commandfile.txt
+  20 git status
