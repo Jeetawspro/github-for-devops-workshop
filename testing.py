@@ -1,1 +1,1 @@
-print("thoda thoda sikh rha hu")
+print("thoda thoda sikh rha hu  dekhte hai")
